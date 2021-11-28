@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1>My Profile</h1>
 
 <h3> About Me </h3>
-<p> I am a VT student at SAP Labs Bangalore since August 2020. I am B.Tech in Computer Sceince and Engineering Graduate from UPES, Dehradun.</p>
+<p> I am a VT student at SAP Labs Bangalore since August 2020. I am a B.Tech in Computer Sceince and Engineering Graduate from UPES, Dehradun.</p>
 
 <p>I'm working on:</p>
 
