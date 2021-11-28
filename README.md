@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p> Few of previous projects are: </p>
+<p> Few of my previous projects are: </p>
 
 <ul>
   <li>Image Steganography: Steganography is the techinique of hiding data into media such as images.</li>
