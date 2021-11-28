@@ -1,5 +1,3 @@
-//### Hi there 👋
-
 <!--
 **Sameer93028/Sameer93028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,10 @@ Here are some ideas to get you started:
 
 <h1>My Profile</h1>
 
-<p>My name is Sameer, and here are a few things I'm working on:</p>
+<h3> About Me </h3>
+<p> I am a VT student at SAP Labs Bangalore since August 2020. I am B.Tech in Computer Sceince and Engineering Graduate from UPES, Dehradun.</p>
+
+<p>I'm working on:</p>
 
 <ul>
   <li>CI/CD: Setting up completely automated pipelines for application deployments using Jenkins.</li>
@@ -42,5 +43,3 @@ Here are some ideas to get you started:
   <li>Image Steganography: Steganography is the techinique of hiding data into media such as images.</li>
   <li>Cricket Data Analystics: Predicting the performance of a player based of parameters like ground and opposition.</li>
 </ul>
-
-<p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
