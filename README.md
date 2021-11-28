@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <ul>
   <li>CI/CD: Setting up completely automated pipelines for application deployments using Jenkins.</li>
   <li>Kubernetes: Setting up required configs for the deployments.</li>
-  <li>kustomize: A templating tools for kubernetes to setup environment specific yamls.</li>
+  <li>Kustomize: A templating tools for kubernetes to setup environment specific yamls.</li>
 </ul>
 
 <hr>
